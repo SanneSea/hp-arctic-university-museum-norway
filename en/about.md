@@ -12,11 +12,10 @@ height: 70vh
 
 The zoological collections of the Arctic University Museum of Norway comprise over 160.000 collection numbers, each of which can contain several specimens. The collection is divided into a wet and a dry magazine and houses 27 unique type specimens (holotypes) and 56 paratypes.
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+We preserve and develop our collections for the promotion of Arctic research, engaging exhibitions and worldwide collaborations. 
+Metadata from the collections are available for download by selecting an organism sub group on the home page.
+
+Follow our updates under the news tab or at https://uit.no/tmu.
 
 ## Quam ex te videt
 
